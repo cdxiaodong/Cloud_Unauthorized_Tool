@@ -1,6 +1,6 @@
 README.md
 # 🌩️ Cloud_Unauthorized_tool
-**English** | [简体中文](README-zh.md)
+**English** | [简体中文](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/blob/master/readme-zh.md)
 ## Introduction
 `Cloud_Unauthorized_tool` is a powerful utility crafted to identify and leverage unauthorized access across various services. It equips security enthusiasts and professionals with the means to detect and exploit vulnerabilities in cloud environments. The tool stands out with its support for multiple exploitation techniques, setting it apart from conventional vulnerability scanners.
 ## Key Features
