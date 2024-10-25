@@ -14,6 +14,20 @@
 4. 利用 Kubernetes API Server 的未授权访问来接管命名空间。
 
 ---
+和**kube-hunter的差别：**
+
+**简单理解就是:kube-hunter只能打poc,但是cloud Unauthorized_tool**可以打exp
+
+比如
+
+1.支持docker api未授权滥创建特权容器、
+
+2.k8s dashboard创建容器并反弹shell。
+
+3.etcd获取token后使用token接管k8s。
+
+4.apiserver未授权接管namespace
+
 
 ## 安装
 
