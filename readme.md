@@ -5,7 +5,7 @@
 
 # clod_Unauthorized_tool
 
-请查看 [README-zh.md](README-zh.md) 获取中文文档。
+请查看 [README-zh.md](https://github.com/cdxiaodong/Cloud_Unauthorized_Tool/blob/master/readme-zh.md) 获取中文文档。
 
 ## Introduction
 
