@@ -18,6 +18,15 @@
 
 ---
 
+Difference with kube-hunter:
+In simple terms, kube-hunter can only perform proof-of-concept (POC) attacks, while cloud Unauthorized_tool can execute exploits.
+For example:
+
+It supports creating privilege containers through unauthorized access to the Docker API.
+It can create containers through the k8s dashboard and establish a reverse shell.
+It can take over the k8s cluster by acquiring a token from etcd and using it.
+It can exploit unauthorized access to the API server and take control of namespaces.
+
 ## Installation
 
 ### Requirements
