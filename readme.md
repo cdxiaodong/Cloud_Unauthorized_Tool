@@ -33,7 +33,6 @@ Compared to kube-hunter, `Cloud_Unauthorized_tool` doesn't just stop at proof-of
 ## Contributing
 Contributions are welcome! Feel free to report issues or submit pull requests to enhance the tool's capabilities.
 ## License
----
 This project is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
 
 🗨️ Contacts:
